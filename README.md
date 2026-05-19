@@ -3,7 +3,7 @@
  
 ---
  
-### 🌐 [khizar.ca](https://khizar.ca)
+#### 🌐 [khizar.ca](https://khizar.ca)
 *check out my personal website*
  
 ---
